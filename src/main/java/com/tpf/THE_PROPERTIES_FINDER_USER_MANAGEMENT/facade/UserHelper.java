@@ -3,7 +3,6 @@ package com.tpf.THE_PROPERTIES_FINDER_USER_MANAGEMENT.facade;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.tpf.THE_PROPERTIES_FINDER_USER_MANAGEMENT.models.User;
-import com.tpf.THE_PROPERTIES_FINDER_USER_MANAGEMENT.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
