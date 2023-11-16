@@ -1,0 +1,8 @@
+com/tpf/THE_PROPERTIES_FINDER_USER_MANAGEMENT/services/UserService.class
+com/tpf/THE_PROPERTIES_FINDER_USER_MANAGEMENT/repository/UserRepository.class
+com/tpf/THE_PROPERTIES_FINDER_USER_MANAGEMENT/ServletInitializer.class
+com/tpf/THE_PROPERTIES_FINDER_USER_MANAGEMENT/facade/UserHelper.class
+com/tpf/THE_PROPERTIES_FINDER_USER_MANAGEMENT/models/User.class
+com/tpf/THE_PROPERTIES_FINDER_USER_MANAGEMENT/services/UserServiceImpl.class
+com/tpf/THE_PROPERTIES_FINDER_USER_MANAGEMENT/controllers/UserController.class
+com/tpf/THE_PROPERTIES_FINDER_USER_MANAGEMENT/ThePropertiesFinderUserManagementApplication.class
